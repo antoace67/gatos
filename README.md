@@ -22,5 +22,5 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | 5 | 45 Mandarinas | Manos a la altura del cuello con codos doblados y dedos flexionados bajo el pulgar | <img width="720" height="720" alt="mandarinas" src="https://github.com/user-attachments/assets/d2a5a9f4-eeee-4e80-aa01-ff20f6c8f058" />|
 | 6 | Corazon | Mano plana cruzada en el centro del pecho con el pulgar hacia arriba y el otro brazo relajado | <img width="440" height="605" alt="corazon" src="https://github.com/user-attachments/assets/beaa0249-8bd6-4fba-b14b-edf8cd1fa31f" /> |
 
-- [carpeta de imágenes](C:\Users\Black Piroc\Documents\Programa_gatos\gatos-main\dppi-tareas-02-archivos\new-memes)
-- [video](Video-memes.mp4)
+- ![Carpeta de imágenes](new-memes)
+- ![video](Video-memes.mp4)
