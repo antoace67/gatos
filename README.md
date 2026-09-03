@@ -1,4 +1,4 @@
-# Gestos Justin Bierber
+# Gestos Justin Bieber
 
 ## tarea-02
 
